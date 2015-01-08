@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"os"
 
+	_ "github.com/goldeneggg/additionalextpoint"
 	"github.com/goldeneggg/geggg-go-extpoint-example/extpoints"
 )
 
