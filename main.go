@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	_ "github.com/goldeneggg/additionalextpoint"
-	"github.com/goldeneggg/geggg-go-extpoint-example/extpoints"
+	_ "github.com/practice-goldeneggg/additionalextpoint"
+	"github.com/practice-goldeneggg/geggg-go-extpoint-example/extpoints"
 )
 
 var (

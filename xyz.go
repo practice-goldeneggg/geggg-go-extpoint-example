@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/goldeneggg/geggg-go-extpoint-example/extpoints"
+	"github.com/practice-goldeneggg/geggg-go-extpoint-example/extpoints"
 )
 
 func init() {
